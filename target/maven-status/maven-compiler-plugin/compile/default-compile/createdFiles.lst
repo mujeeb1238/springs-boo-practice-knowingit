@@ -1,0 +1,7 @@
+com\knowingit\core\users\Account.class
+com\knowingit\core\MainBoot.class
+com\knowingit\core\security\SecurityConfig.class
+com\knowingit\core\users\UsersController.class
+com\knowingit\core\users\MainController.class
+com\knowingit\core\MessageWebApplicationInitializer.class
+com\knowingit\core\MessageSecurityWebApplicationInitializer.class
